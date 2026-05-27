@@ -312,17 +312,3 @@ This project is related to:
 * Some workflows are notebook-based and may require manual execution.
 * Model performance may vary depending on preprocessing, feature engineering, random seed, and validation strategy.
 * Additional refactoring would be required for production-level CTR prediction systems.
-
----
-
-## Future Work
-
-* Refactor notebook-based workflows into reusable Python scripts
-* Add unified training and inference CLI
-* Add experiment tracking with MLflow or Weights & Biases
-* Add validation metrics and leaderboard score summary
-* Add ensemble blending script
-* Add feature importance and error analysis
-* Add reproducible configuration files
-* Add Docker-based environment setup
-
