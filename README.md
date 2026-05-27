@@ -326,10 +326,3 @@ This project is related to:
 * Add reproducible configuration files
 * Add Docker-based environment setup
 
----
-
-## Author
-
-**Hoseong Kim**
-ML Engineer
-GitHub: https://github.com/ho323
